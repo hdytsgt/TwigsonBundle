@@ -1,5 +1,5 @@
 {
-    "name": "hdytsgt/TwigsonBundle",
+    "name": "hdytsgt/twigson-bundle",
     "description": "Symfony 3 Bundle for Twig Filter Extension to read JSON file or through URL",
     "keywords": [
         "bundle",
