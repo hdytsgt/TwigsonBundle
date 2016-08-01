@@ -1,0 +1,3 @@
+twigson_homepage:
+    path:     /
+    defaults: { _controller: TwigsonBundle:Default:index }

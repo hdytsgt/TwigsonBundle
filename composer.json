@@ -1,0 +1,27 @@
+{
+    "name": "hdytsgt/TwigsonBundle",
+    "description": "Symfony 3 Bundle for Twig Filter Extension to read JSON file or through URL",
+    "keywords": [
+        "bundle",
+        "json",
+        "symfony",
+        "twig"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hidayat sagita",
+            "email": "hidayat.sagita@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^4.4|^5.0",
+        "symfony/framework-bundle": "^2.6|^3.0",
+        "symfony/twig-bundle": "^2.6|^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "hdytsgt\\TwigsonBundle\\": "."
+        }
+    }
+}

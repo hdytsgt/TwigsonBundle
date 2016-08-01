@@ -1,0 +1,6 @@
+services:
+    twigson.twig_extension:
+        class: hdytsgt\TwigsonBundle\Twig\TwigsonExtension
+        public: false
+        tags:
+            - { name: twig.extension }
